@@ -1,5 +1,5 @@
 # twofactor-php
-merhabalar bu projede sitenize kullanıcılar için iki aşamalı doğrulama sistemi kurmak amaçlıdır ve tamamen örnektir kendinize göre değiştirip kullanabilirsiniz.
+merhabalar bu proje sitenize kullanıcılar için iki aşamalı doğrulama sistemi kurmak amaçlıdır. tamamen örnektir kendinize göre değiştirip kullanabilirsiniz.
 
 not: Google Authenticator uygulaması ile çalışmaktadır.
 SQL dosyasını aktarmayı unutmayın.
